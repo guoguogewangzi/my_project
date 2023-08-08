@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: my-project
+Version: 1.0
+Summary: UNKNOWN
+Home-page: http://iswbm.com/
+Author: guoguogewangzi
+Author-email: 87986359@qq.com
+License: MIT
+Description: readme
+Keywords: python,moviepy,cut video
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
